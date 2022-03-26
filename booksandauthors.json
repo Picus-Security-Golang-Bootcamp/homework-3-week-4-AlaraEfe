@@ -1,0 +1,75 @@
+[
+    
+{
+    "BookID" : "1", 
+	"BookName" : "Guns, Germs, and Steel",     
+	"BookPageCount" : "528",
+    "BookStock" : "10",    
+	"BookPrice" : "18.95",    
+	"BookStockCode" : "GXGXAXSX",
+	"BookISBN" : "978-0393354324",     
+	"BookAuthorID" : "123", 
+	"BookAuthorName" : "Jared Diamond"
+},
+
+{
+    "BookID" : "2",
+	"BookName" : "Escape From Freedom",     
+	"BookPageCount" : "309", 
+	"BookStock" : "8",    
+	"BookPrice" : "17.99",    
+	"BookStockCode" : "EXFXFX",
+	"BookISBN" : "978-0805031492",     
+	"BookAuthorID" : "98", 
+	"BookAuthorName" : "Erich Fromm"
+},
+
+{
+    "BookID" : "3",
+	"BookName" : "The Grapes of Wrath",     
+	"BookPageCount" : "464",
+	"BookStock" : "5",    
+	"BookPrice" : "18.00",    
+	"BookStockCode" : "TXGXOXWX",
+	"BookISBN" : "978-0143039433",     
+	"BookAuthorID" : "231", 
+	"BookAuthorName" : "John Steinbeck"
+},
+
+{
+    "BookID" : "4", 
+	"BookName" : "Blindness",     
+	"BookPageCount" : "352",
+	"BookStock" : "9",    
+	"BookPrice" : "15.99",    
+	"BookStockCode" : "BX",
+	"BookISBN" : "978-0156007757",     
+	"BookAuthorID" : "151", 
+	"BookAuthorName" : "Jose Saramago"
+},
+
+{
+    "BookID" : "5", 
+	"BookName" : "Crime and Punishment",     
+	"BookPageCount" : "565",
+	"BookStock" : "11",    
+	"BookPrice" : "17.95",    
+	"BookStockCode" : "CXAXPX",
+	"BookISBN" : "978-0679734505",     
+	"BookAuthorID" : "321", 
+	"BookAuthorName" : "Fyodor Dostoyevsky"
+},
+
+{
+    "BookID" : "6",  
+	"BookName" : "Letter to a Child Never Born",     
+	"BookPageCount" : "116",
+	"BookStock" : "14",    
+	"BookPrice" : "24.00",    
+	"BookStockCode" : "LXTXAXCXNXBX",
+	"BookISBN" : "978-0385134859",     
+	"BookAuthorID" : "412", 
+	"BookAuthorName" : "Oriana Fallaci"
+}
+
+]

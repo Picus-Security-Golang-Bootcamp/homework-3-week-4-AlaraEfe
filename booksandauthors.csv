@@ -1,0 +1,7 @@
+Book_ID,Book_Name,Book_Page_Count,Book_Stock,Book_Price,Book_Stock_Code,Book_ISBN,Book_Author_ID,BookAuthorName
+1,"Guns, Germs, and Steel",528,10,18.95,GXGXAXSX,978-0393354324,123,Jared Diamond
+2,Escape From Freedom,309,8,17.99,EXFXFX,978-0805031492,98,Erich Fromm
+3,The Grapes of Wrath,464,5,18.00,TXGXOXWX,978-0143039433,231,John Steinbeck
+4,Blindness,352,9,15.99,BX,978-0156007757,151,Jose Saramago
+5,Crime and Punishment,565,11,17.95,CXAXPX,978-0679734505,321,Fyodor Dostoyevsky
+6,Letter to a Child Never Born,116,14,24.00,LXTXAXCXNXBX,978-0385134859,412,Oriana Fallaci
